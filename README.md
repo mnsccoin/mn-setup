@@ -11,16 +11,16 @@
 **VPS WALLET:**
 
 1. After you longin on your VPS , with this command you will download masternode-installer.   
-`wget https://raw.githubusercontent.com/mnsccoin/src/master/masternode-install.sh`  
+`wget https://raw.githubusercontent.com/mnsccoin/src/master/masternode-install-ubuntu-18.04.sh`  
  
 
 2. With this command you will make masternode-install.sh executable:  
 
 - Use this: <br>
-`sudo chmod +x masternode-install.sh` <br>
+`sudo chmod +x masternode-install-ubuntu-18.04.sh` <br>
 
 3. Now install your masternode.  
-`./masternode-install.sh`
+`./masternode-install-ubuntu-18.04.sh`
 
 4. Press ENTER when the system ask for Masternodekey to create one automatically! 
 
