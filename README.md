@@ -99,4 +99,7 @@ Close your wallet.
 Restart your wallet! 
 On Masternode tab in your wallet - Start the masternode! 
 
-If you still facing any issues then join our <a href="https://discord.gg/PW77729pAq"> Discord server</a> for support, We available for support you.
+If you still facing any issues 
+then join our <a href="https://discord.gg/PW77729pAq"> Discord server</a> for support. 
+or join our Telegram chat <a href="https://t.me/+CKQ2LJw3t3U1MGIx"> Telegram Chat</a> !
+We are happy to help you there! 
