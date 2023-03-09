@@ -63,10 +63,10 @@ Enter the following command.
 ```
 getmasternodeoutputs
 ```
-```
+
 Example output
 
-
+```
 [
   {
     "txhash": "506a242ccbfd2555bcd9cff5f4041752c911f39cb2905acc83ccfe0cf8808df9",
