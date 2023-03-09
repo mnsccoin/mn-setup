@@ -50,11 +50,11 @@ getaccountaddress "MN1"
 ```
 
 Example output
-
+```
 MDC99hZmSmYEcBu4WcxA2TCT6KBqHB6Hos
 ```
 Transfer the required amount of coins to the “collateral address” that you created using the command “getaccountaddress "MN1"”.
-```
+
 Wait until the transaction has the required masternode confirmations.
 
 Go to “Tools”.
