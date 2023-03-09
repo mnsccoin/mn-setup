@@ -22,12 +22,10 @@
 3. Now install your masternode.  
 `./masternode-install.sh`
 
+4. Press ENTER when the system ask for Masternodekey to create one automatically! 
 
 
-
-**LOCAL WALLET:**
-
-Send the collateral
+or  go to your **LOCAL WALLET:**
 Open your wallet and wait until your wallet has downloaded the blockchain.
 
 Go to “Tools”.
@@ -43,6 +41,10 @@ createmasternodekey
 Example output
 
 7VatfYVk5fFMTymPDhgSURAESDACJhWpd89WHGoh35d9fbLQPj5
+
+
+Send the collateral
+
 
 Show your collateral address.
 ```
