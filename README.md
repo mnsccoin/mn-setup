@@ -22,10 +22,7 @@
 3. Now install your masternode.  
 `./masternode-install-ubuntu-18.04.sh`
 
-4. Press ENTER when the system ask for Masternodekey to create one automatically! 
-
-
-or  go to your **LOCAL WALLET:**
+4.  go to your **LOCAL WALLET:**
 Open your wallet and wait until your wallet has downloaded the blockchain.
 
 Go to “Tools”.
@@ -39,12 +36,13 @@ createmasternodekey
 ```
 
 Example output
-
+```
 7VatfYVk5fFMTymPDhgSURAESDACJhWpd89WHGoh35d9fbLQPj5
+```
 
+Copy this to Linux and press Enter! 
 
-Send the collateral
-
+5. Send the collateral
 
 Show your collateral address.
 ```
