@@ -321,7 +321,7 @@ fi
 }
 
 function prepare_system() {
-echo -e "${YELLOW}Preparing the VPS to setup ${BLUE}$PROJECT_NAME ${GREEN}Masternode${NC}"
+echo -e "${YELLOW}Preparing the VPS to setup ${RED}$PROJECT_NAME ${GREEN}Masternode${NC}"
 
 rm /var/lib/apt/lists/lock > /dev/null 2>&1
 rm /var/cache/apt/archives/lock > /dev/null 2>&1
